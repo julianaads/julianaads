@@ -1,5 +1,7 @@
-### <Olá Mundo> :rocket: :woman_astronaut:
+<h1 align="center">< Olá Mundo /> :rocket: :woman_astronaut: </h1> 
+
 <img align="right" src="Img/gif-readme.gif" width="320"/>
+  
 </br>
 
 ### Bem vindos ao meu perfil:
