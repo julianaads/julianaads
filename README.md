@@ -4,7 +4,7 @@
   
 </br>
 
-### Bem vindos ao meu perfil:
+<h3 align="center"> Bem vindos ao meu perfil: </h3>
 
 - 🚀 Estudande de desenvolvimento front-end na [Laboratória](https://www.laboratoria.la/br)
 - 💻 HTML, CSS, JavaScript, Node.js, ReactJS,
