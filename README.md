@@ -1,6 +1,6 @@
-<h1 align="center">< Olá Mundo /> :rocket: :woman_astronaut: </h1> 
+<h2 align="center">< Olá Mundo /> :rocket: :woman_astronaut: </h2> 
 
-<img align="right" src="Img/gif-readme.gif" width="320"/>
+<img align="right" src="Img/gif-readme.gif" width="300"/>
   
 </br>
 
@@ -11,6 +11,7 @@
 - ✨ "A educação é o poder das mulheres." - Yousafzai, Malala
 
 </br>
+
 Visite meu Linkedin 👇🏼
 </br>
 
